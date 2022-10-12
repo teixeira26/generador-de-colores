@@ -26,7 +26,7 @@ const cambiarColor = ()=>{
     texto.html(`
     <div>
         <p>rgb: ${rojo}, ${verde}, ${azul}</p>
-        <p>Hexadecimal: ${colorHex}</p>
+        <p>Hexadecimal: #${colorHex}</p>
     </div>
     `)
 
